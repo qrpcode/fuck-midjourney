@@ -1,0 +1,10 @@
+server:
+  port: 7729
+spring:
+  application:
+    name: mubanwx
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://39.105.154.14:3306/mubanwx?characterEncoding=utf-8&useSSL=false
+    username: mubanwx
+    password: p7eBJfjminGesmGF
